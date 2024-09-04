@@ -1,4 +1,4 @@
-# 30days-coding-challenge
+# 30 Days Coding Challenge
 
 ### Change log
 

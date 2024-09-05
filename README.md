@@ -8,8 +8,7 @@
 - Exploring Cursor IDE
 
 #### 05.09.2024
-
--
+- Hook up FastAPI weather app with NextJS app
 
 #### 06.09.2024
 

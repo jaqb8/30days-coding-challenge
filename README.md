@@ -12,7 +12,9 @@
 
 #### 06.09.2024
 
--
+- Explore NextJS: "use client" & "use server" directives
+- CodeWars kata [`Dark Souls: Prepare To Die - Soul Level`](https://www.codewars.com/kata/reviews/5e357951e5a7710001c19b1c/groups/66db74a8fb5e52c510b942fc)
+
 
 #### 07.09.2024
 

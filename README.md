@@ -14,11 +14,14 @@
 
 - Explore NextJS: "use client" & "use server" directives
 - CodeWars kata [`Dark Souls: Prepare To Die - Soul Level`](https://www.codewars.com/kata/reviews/5e357951e5a7710001c19b1c/groups/66db74a8fb5e52c510b942fc)
-
+`
 
 #### 07.09.2024
 
--
+- Refactor NextJS weather component to use "use server" directive
+- Add default city to FastAPI weather app
+- Handle change of default city on frontend
+- Style weather component with v0
 
 #### 08.09.2024
 

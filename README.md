@@ -25,7 +25,10 @@
 
 #### 08.09.2024
 
--
+- Created notes for setting up NextJS app with Prisma and shadcn
+- Created notes for setting up FastAPI app
+- Created NextJS + FastAPI project template
+- Setup Rate Your Landlord project
 
 #### 09.09.2024
 

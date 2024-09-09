@@ -32,7 +32,7 @@
 
 #### 09.09.2024
 
--
+- RYL: Add "Add a Landlord" page
 
 #### 10.09.2024
 

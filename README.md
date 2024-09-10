@@ -36,7 +36,7 @@
 
 #### 10.09.2024
 
--
+- RYL: Address input field with autosuggestions
 
 #### 11.09.2024
 

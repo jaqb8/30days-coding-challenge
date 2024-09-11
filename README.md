@@ -40,7 +40,7 @@
 
 #### 11.09.2024
 
--
+- RYL: Add autosuggestions input to main view
 
 #### 12.09.2024
 

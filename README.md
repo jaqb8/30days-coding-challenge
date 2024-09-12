@@ -44,7 +44,7 @@
 
 #### 12.09.2024
 
--
+- RYL: Create "Add a Landlord" dialog
 
 #### 13.09.2024
 

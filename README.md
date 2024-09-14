@@ -52,9 +52,10 @@
 - RYL: Style "Landlord Info" page
 
 #### 14.09.2024
-TODO:
-- add photoUrl to landlord model
-- setup file storage
+
+- RYL: add photoUrl to landlord model
+- RYL: setup file storage
+- RYL: add photo upload to landlord page
 
 #### 15.09.2024
 

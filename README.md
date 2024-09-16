@@ -63,11 +63,11 @@
 
 #### 16.09.2024
 
--
+- RYL: theme changes, light/dark mode, handle clear main input
 
 #### 17.09.2024
-
--
+    TODO:
+- RYL: add client state manager (zustand?)
 
 #### 18.09.2024
 

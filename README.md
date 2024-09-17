@@ -66,12 +66,13 @@
 - RYL: theme changes, light/dark mode, handle clear main input
 
 #### 17.09.2024
-TODO:
-- RYL: add client state manager (zustand?)
+
+- RYL: add client state manager
+- RYL: add shared states in map and sidebar
 
 #### 18.09.2024
-
--
+TODO:
+- RYL: fix searching
 
 #### 19.09.2024
 

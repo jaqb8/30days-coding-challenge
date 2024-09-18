@@ -71,12 +71,13 @@
 - RYL: add shared states in map and sidebar
 
 #### 18.09.2024
-TODO:
-- RYL: fix searching
+
+- RYL: fixed searching
+- RYL: style fixes
 
 #### 19.09.2024
-
--
+TODO:
+- RYL: handle adding review      
 
 #### 20.09.2024
 

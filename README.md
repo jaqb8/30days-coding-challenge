@@ -80,8 +80,11 @@ TODO:
 - RYL: handle adding review      
 
 #### 20.09.2024
-
--
+TODO:
+- invalidate landlord page after adding new review
+- on landlord page show only last 3 reviews
+- fix avgRating (doesnt update on delete of a review)
+- add review number (on landlord model?)
 
 #### 21.09.2024
 

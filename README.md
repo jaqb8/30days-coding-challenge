@@ -8,13 +8,14 @@
 - Exploring Cursor IDE
 
 #### 05.09.2024
+
 - Hook up FastAPI weather app with NextJS app
 
 #### 06.09.2024
 
 - Explore NextJS: "use client" & "use server" directives
 - CodeWars kata [`Dark Souls: Prepare To Die - Soul Level`](https://www.codewars.com/kata/reviews/5e357951e5a7710001c19b1c/groups/66db74a8fb5e52c510b942fc)
-`
+  `
 
 #### 07.09.2024
 
@@ -76,19 +77,21 @@
 - RYL: style fixes
 
 #### 19.09.2024
-TODO:
-- RYL: handle adding review      
+
+- RYL: handle adding review
 
 #### 20.09.2024
-TODO:
+
 - invalidate landlord page after adding new review
 - on landlord page show only last 3 reviews
-- fix avgRating (doesnt update on delete of a review)
-- add review number (on landlord model?)
+- add pagination to reviews
 
 #### 21.09.2024
 
--
+TODO:
+
+- fix avgRating (doesnt update on delete of a review)
+- add review number (on landlord model?)
 
 #### 22.09.2024
 

@@ -91,6 +91,12 @@
 - fix avgRating (doesnt update on delete of a review)
 - add review number
 
+TODO:
+
+- refactor add landlord dialog
+- edit landlord page
+- edit review page
+
 #### 22.09.2024
 
 -

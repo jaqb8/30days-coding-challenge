@@ -88,10 +88,8 @@
 
 #### 21.09.2024
 
-TODO:
-
 - fix avgRating (doesnt update on delete of a review)
-- add review number (on landlord model?)
+- add review number
 
 #### 22.09.2024
 

@@ -90,16 +90,16 @@
 
 - fix avgRating (doesnt update on delete of a review)
 - add review number
+- enhanced design
+
+#### 22.09.2024
 
 TODO:
 
 - refactor add landlord dialog
 - edit landlord page
 - edit review page
-
-#### 22.09.2024
-
--
+- fix: autosuggestions not working when landlord is selected
 
 #### 23.09.2024
 

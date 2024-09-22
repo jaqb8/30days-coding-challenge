@@ -94,16 +94,19 @@
 
 #### 22.09.2024
 
-TODO:
-
 - refactor add landlord dialog
+- add loading spinner
+- enhance design
 - edit landlord page
-- edit review page
-- fix: autosuggestions not working when landlord is selected
+- delete landlord dialog
 
 #### 23.09.2024
 
--
+TODO:
+
+- edit review page
+- fix: autosuggestions not working when landlord is selected
+- enhance add landlord flow
 
 #### 24.09.2024
 

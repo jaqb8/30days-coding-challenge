@@ -102,15 +102,16 @@
 
 #### 23.09.2024
 
-TODO:
-
 - edit review page
-- fix: autosuggestions not working when landlord is selected
-- enhance add landlord flow
+- refactor review form
+- add review details page
 
 #### 24.09.2024
 
--
+TODO:
+
+- fix: autosuggestions not working when landlord is selected
+- enhance add landlord flow
 
 #### 25.09.2024
 

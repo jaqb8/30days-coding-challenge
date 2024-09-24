@@ -108,14 +108,13 @@
 
 #### 24.09.2024
 
-TODO:
-
 - fix: autosuggestions not working when landlord is selected
-- enhance add landlord flow
 
 #### 25.09.2024
 
--
+TODO:
+
+- enhance add landlord flow
 
 #### 26.09.2024
 

@@ -112,13 +112,13 @@
 
 #### 25.09.2024
 
-TODO:
-
-- enhance add landlord flow
+- enhance add landlord flow: add some indicator on sidebar that query is selected
 
 #### 26.09.2024
 
--
+TODO:
+
+- add auth
 
 #### 27.09.2024
 

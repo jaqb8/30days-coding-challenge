@@ -116,6 +116,8 @@
 
 #### 26.09.2024
 
+- add version in sidebar
+
 TODO:
 
 - add auth

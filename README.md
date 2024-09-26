@@ -117,14 +117,13 @@
 #### 26.09.2024
 
 - add version in sidebar
+- add login button in sidebar
+
+#### 27.09.2024
 
 TODO:
 
 - add auth
-
-#### 27.09.2024
-
--
 
 #### 28.09.2024
 

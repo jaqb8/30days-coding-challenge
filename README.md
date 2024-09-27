@@ -121,13 +121,13 @@
 
 #### 27.09.2024
 
-TODO:
-
-- add auth
+- login and register view
 
 #### 28.09.2024
 
--
+TODO:
+
+- add auth
 
 #### 29.09.2024
 

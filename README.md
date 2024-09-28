@@ -125,9 +125,7 @@
 
 #### 28.09.2024
 
-TODO:
-
-- add auth
+- replace next-auth with lucia auth
 
 #### 29.09.2024
 

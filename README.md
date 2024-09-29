@@ -131,6 +131,7 @@
 
 - handle login and register
 - keep track of user session
+- create session provider
 
 #### 30.09.2024
 

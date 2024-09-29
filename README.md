@@ -129,11 +129,15 @@
 
 #### 29.09.2024
 
--
+- handle login and register
+- keep track of user session
 
 #### 30.09.2024
 
--
+TODO:
+
+- fix invalidation of client auth state in sidebar after logout
+- replace basic forms with shadcn forms in login and register
 
 #### 01.10.2024
 

@@ -139,6 +139,7 @@ TODO:
 
 - fix invalidation of client auth state in sidebar after logout
 - replace basic forms with shadcn forms in login and register
+- add animations 
 
 #### 01.10.2024
 

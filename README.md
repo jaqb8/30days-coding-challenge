@@ -140,14 +140,15 @@
 
 #### 01.10.2024
 
-TODO:
-
-- session cookie is not being set on login
-- add animations
+- create custom login action
+- fixed: session cookie is not being set on login
 
 #### 02.10.2024
 
--
+TODO:
+
+- move registration from trcp to its custom action
+- add animations
 
 #### 03.10.2024
 

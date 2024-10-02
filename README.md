@@ -145,14 +145,15 @@
 
 #### 02.10.2024
 
-TODO:
-
 - move registration from trcp to its custom action
-- add animations
+- created verify email page
 
 #### 03.10.2024
 
--
+TODO:
+
+- fix middleware for auth routes
+- add animations
 
 #### 04.10.2024
 

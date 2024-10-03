@@ -150,11 +150,11 @@
 
 #### 03.10.2024
 
-TODO:
-
-- fix middleware for auth routes
-- add animations
+- fix middleware for auth routes: add prisma edge client to handle vercel middleware runtime
 
 #### 04.10.2024
 
--
+TODO:
+
+- add animations
+- add auth to db entities

@@ -154,7 +154,75 @@
 
 #### 04.10.2024
 
+- add email verification
+- create email template with react-email
+- send email on registration
+- add verification account logic
+
+#### 05.10.2024
+
 TODO:
 
-- add animations
+- bug: if user has login page open while activating account, the login page doesnt work after activation
+- add queue for sending emails
+- add verify email endpoint and activation codes table in db
 - add auth to db entities
+- add animations
+
+#### 06.10.2024
+
+-
+
+#### 07.10.2024
+
+-
+
+#### 08.10.2024
+
+-
+
+#### 09.10.2024
+
+-
+
+#### 10.10.2024
+
+-
+
+#### 11.10.2024
+
+-
+
+#### 12.10.2024
+
+-
+
+#### 13.10.2024
+
+-
+
+#### 14.10.2024
+
+-
+
+#### 15.10.2024
+
+-
+
+#### 16.10.2024
+
+-
+
+#### 17.10.2024
+
+-
+
+#### 18.10.2024
+
+-
+
+#### 19.10.2024
+
+-
+
+#### 20.10.2024

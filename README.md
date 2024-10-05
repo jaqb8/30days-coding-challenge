@@ -161,16 +161,16 @@
 
 #### 05.10.2024
 
-TODO:
-
-- bug: if user has login page open while activating account, the login page doesnt work after activation
-- add queue for sending emails
+- fixed: if user has login page open while activating account, the login page doesnt work after activation - verify email endpoint doesnt set cookie any more
 - add verify email endpoint and activation codes table in db
-- add auth to db entities
-- add animations
+- add queue for sending emails
 
 #### 06.10.2024
 
+TODO:
+
+- add auth to db entities
+- add animations
 -
 
 #### 07.10.2024

@@ -167,15 +167,16 @@
 
 #### 06.10.2024
 
-TODO:
-
-- add auth to db entities
-- add animations
--
+- improved workflow for adding new landlords when not logged in
+- add loading on avgRating fetch
+- add animations for sidebar
 
 #### 07.10.2024
 
--
+TODO:
+
+- add auth to db entities
+- add protected routes
 
 #### 08.10.2024
 

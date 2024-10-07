@@ -173,14 +173,15 @@
 
 #### 07.10.2024
 
-TODO:
-
 - add auth to db entities
 - add protected routes
 
 #### 08.10.2024
 
--
+TODO:
+
+- fix invalidation after adding landlord and review
+- fix adding landlord - when user gets data from autosuggestion, coordinates are set wrong
 
 #### 09.10.2024
 

@@ -178,10 +178,13 @@
 
 #### 08.10.2024
 
-TODO:
-
 - fix invalidation after adding landlord and review
+
+  TODO:
+
 - fix adding landlord - when user gets data from autosuggestion, coordinates are set wrong
+- remove title from review
+- add middleware check for auth routes (edit review, add review, add landlord, edit landlord)
 
 #### 09.10.2024
 

@@ -180,19 +180,25 @@
 
 - fix invalidation after adding landlord and review
 
-  TODO:
-
-- fix adding landlord - when user gets data from autosuggestion, coordinates are set wrong
-- remove title from review
-- add middleware check for auth routes (edit review, add review, add landlord, edit landlord)
-
 #### 09.10.2024
 
--
+- fix adding landlord - when user gets data from autosuggestion, coordinates are set wrong - remove fetching coordinates from autosuggestions
+- remove title from review
 
 #### 10.10.2024
 
--
+TODO:
+
+- add middleware check for auth routes (edit review, add review, add landlord, edit landlord)
+- add user profile page (edit user)
+- implement review likes
+- implement report review
+- implement share review
+- implement share landlord
+- fix re-uploading landlord image according to the instructions from github issue
+- redirect to add review page after logging in from add review button
+- add analytics (posthog?)
+- deploy to vercel or digital ocean
 
 #### 11.10.2024
 

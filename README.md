@@ -187,21 +187,24 @@
 
 #### 10.10.2024
 
+- add middleware check for auth routes (edit review, add review, add landlord, edit landlord)
+- design changes
+
+#### 11.10.2024
+
 TODO:
 
-- add middleware check for auth routes (edit review, add review, add landlord, edit landlord)
 - add user profile page (edit user)
 - implement review likes
 - implement report review
 - implement share review
 - implement share landlord
 - fix re-uploading landlord image according to the instructions from github issue
+- fix: sometimes when adding a landlord, the map doesnt update
+- fix: edit review button doesnt work on landlord page
 - redirect to add review page after logging in from add review button
 - add analytics (posthog?)
 - deploy to vercel or digital ocean
-
-#### 11.10.2024
-
 -
 
 #### 12.10.2024

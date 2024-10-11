@@ -192,9 +192,13 @@
 
 #### 11.10.2024
 
+- add user profile page (edit user)
+
+#### 12.10.2024
+
 TODO:
 
-- add user profile page (edit user)
+- invalidate user profile page after editing user
 - implement review likes
 - implement report review
 - implement share review
@@ -205,11 +209,6 @@ TODO:
 - redirect to add review page after logging in from add review button
 - add analytics (posthog?)
 - deploy to vercel or digital ocean
--
-
-#### 12.10.2024
-
--
 
 #### 13.10.2024
 

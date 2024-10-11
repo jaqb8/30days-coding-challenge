@@ -193,12 +193,12 @@
 #### 11.10.2024
 
 - add user profile page (edit user)
+- invalidate user profile page after editing user
 
 #### 12.10.2024
 
 TODO:
 
-- invalidate user profile page after editing user
 - implement review likes
 - implement report review
 - implement share review

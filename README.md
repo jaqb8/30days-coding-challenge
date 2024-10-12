@@ -197,8 +197,11 @@
 
 #### 12.10.2024
 
+- add uploadthing button to upload user avatar
+
 TODO:
 
+- move user profile update logic after uploading from upt servers
 - implement review likes
 - implement report review
 - implement share review

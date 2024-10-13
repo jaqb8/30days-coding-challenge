@@ -199,11 +199,16 @@
 
 - add uploadthing button to upload user avatar
 
-TODO:
+#### 13.10.2024
 
 - move user profile update logic after uploading from upt servers
-- implement review likes
-- implement report review
+- design changes
+- feature flags for 1.1.0
+
+#### 14.10.2024
+
+TODO:
+
 - implement share review
 - implement share landlord
 - fix re-uploading landlord image according to the instructions from github issue
@@ -211,15 +216,9 @@ TODO:
 - fix: edit review button doesnt work on landlord page
 - redirect to add review page after logging in from add review button
 - add analytics (posthog?)
-- deploy to vercel or digital ocean
-
-#### 13.10.2024
-
--
-
-#### 14.10.2024
-
--
+- deploy to vercel
+- [1.1.0] implement report review
+- [1.1.0] implement review likes
 
 #### 15.10.2024
 

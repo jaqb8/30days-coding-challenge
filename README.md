@@ -207,13 +207,18 @@
 
 #### 14.10.2024
 
-TODO:
+- fix: edit review button doesnt work on landlord page
+- added edit landlord button on landlord page
 
+  TODO:
+
+- map mobile view
+- add link to landlord on all reviews view
+- add feature flags on all reviews view
 - implement share review
 - implement share landlord
 - fix re-uploading landlord image according to the instructions from github issue
 - fix: sometimes when adding a landlord, the map doesnt update
-- fix: edit review button doesnt work on landlord page
 - redirect to add review page after logging in from add review button
 - add analytics (posthog?)
 - deploy to vercel

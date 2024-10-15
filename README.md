@@ -214,10 +214,13 @@
 
 - add link to landlord on all reviews view
 - add feature flags on all reviews view
+- first version of mobile map view
+
+#### 16.10.2024
 
 TODO:
 
-- map mobile view
+- map mobile view fixes
 - implement share review
 - implement share landlord
 - fix re-uploading landlord image according to the instructions from github issue
@@ -227,10 +230,6 @@ TODO:
 - deploy to vercel
 - [1.1.0] implement report review
 - [1.1.0] implement review likes
-
-#### 16.10.2024
-
--
 
 #### 17.10.2024
 

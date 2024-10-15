@@ -210,11 +210,14 @@
 - fix: edit review button doesnt work on landlord page
 - added edit landlord button on landlord page
 
-  TODO:
+#### 15.10.2024
 
-- map mobile view
 - add link to landlord on all reviews view
 - add feature flags on all reviews view
+
+TODO:
+
+- map mobile view
 - implement share review
 - implement share landlord
 - fix re-uploading landlord image according to the instructions from github issue
@@ -224,10 +227,6 @@
 - deploy to vercel
 - [1.1.0] implement report review
 - [1.1.0] implement review likes
-
-#### 15.10.2024
-
--
 
 #### 16.10.2024
 

@@ -224,6 +224,7 @@
 
 TODO:
 
+- map mobile view fixes
 - implement share review
 - implement share landlord
 - fix re-uploading landlord image according to the instructions from github issue

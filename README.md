@@ -218,9 +218,12 @@
 
 #### 16.10.2024
 
+- map mobile view fixes
+
+#### 17.10.2024
+
 TODO:
 
-- map mobile view fixes
 - implement share review
 - implement share landlord
 - fix re-uploading landlord image according to the instructions from github issue
@@ -230,10 +233,6 @@ TODO:
 - deploy to vercel
 - [1.1.0] implement report review
 - [1.1.0] implement review likes
-
-#### 17.10.2024
-
--
 
 #### 18.10.2024
 

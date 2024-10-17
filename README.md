@@ -222,22 +222,23 @@
 
 #### 17.10.2024
 
+- map mobile view fixes - done
+- redirect to add review page after logging in from add review button
+
+#### 18.10.2024
+
 TODO:
 
-- map mobile view fixes
 - implement share review
 - implement share landlord
 - fix re-uploading landlord image according to the instructions from github issue
 - fix: sometimes when adding a landlord, the map doesnt update
-- redirect to add review page after logging in from add review button
+- review page mobile view
+- landlord page mobile view
 - add analytics (posthog?)
 - deploy to vercel
 - [1.1.0] implement report review
 - [1.1.0] implement review likes
-
-#### 18.10.2024
-
--
 
 #### 19.10.2024
 

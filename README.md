@@ -229,6 +229,7 @@
 
 TODO:
 
+- translate all strings
 - implement share review
 - implement share landlord
 - fix re-uploading landlord image according to the instructions from github issue
@@ -239,6 +240,7 @@ TODO:
 - deploy to vercel
 - [1.1.0] implement report review
 - [1.1.0] implement review likes
+- [1.1.0] implement selecting users locale
 
 #### 19.10.2024
 

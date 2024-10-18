@@ -227,23 +227,25 @@
 
 #### 18.10.2024
 
-TODO:
-
-- translate all strings
+- create copy button component
 - implement share review
 - implement share landlord
+
+#### 19.10.2024
+
+TODO:
+
 - fix re-uploading landlord image according to the instructions from github issue
 - fix: sometimes when adding a landlord, the map doesnt update
 - review page mobile view
 - landlord page mobile view
+- translate all strings
 - add analytics (posthog?)
 - deploy to vercel
 - [1.1.0] implement report review
 - [1.1.0] implement review likes
 - [1.1.0] implement selecting users locale
-
-#### 19.10.2024
-
+- [1.1.0] add AI validation for reviews
 -
 
 #### 20.10.2024

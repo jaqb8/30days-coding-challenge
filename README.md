@@ -250,7 +250,7 @@ TODO:
 
 - fix connection to redis on prod
 - translate all strings
-- add analytics (posthog?)
+- add analytics (vercel, posthog?)
 - [1.1.0] implement report review
 - [1.1.0] implement review likes
 - [1.1.0] implement selecting users locale

@@ -233,19 +233,44 @@
 
 #### 19.10.2024
 
-TODO:
-
 - fix re-uploading landlord image according to the instructions from github issue
 - fix: sometimes when adding a landlord, the map doesnt update
+- deploy to vercel
+
+#### 20.10.2024
+
+- feature flag for login with google
 - review page mobile view
 - landlord page mobile view
+- setup bullmq on prod (Vercel KV)
+
+#### 21.10.2024
+
+TODO:
+
+- fix connection to redis on prod
 - translate all strings
 - add analytics (posthog?)
-- deploy to vercel
 - [1.1.0] implement report review
 - [1.1.0] implement review likes
 - [1.1.0] implement selecting users locale
 - [1.1.0] add AI validation for reviews
--
+- [1.1.0] login with google
 
-#### 20.10.2024
+#### 22.10.2024
+
+#### 23.10.2024
+
+#### 24.10.2024
+
+#### 25.10.2024
+
+#### 26.10.2024
+
+#### 27.10.2024
+
+#### 28.10.2024
+
+#### 29.10.2024
+
+#### 30.10.2024

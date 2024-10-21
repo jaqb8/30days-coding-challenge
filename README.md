@@ -246,10 +246,12 @@
 
 #### 21.10.2024
 
+- fix connection to redis on prod
+- setup translation
+
 TODO:
 
-- fix connection to redis on prod
-- translate all strings
+- fix translations
 - add analytics (vercel, posthog?)
 - [1.1.0] implement report review
 - [1.1.0] implement review likes

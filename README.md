@@ -248,10 +248,11 @@
 
 - fix connection to redis on prod
 - setup translation
+- fix translations
 
 TODO:
 
-- fix translations
+- add translations for all pages
 - add analytics (vercel, posthog?)
 - [1.1.0] implement report review
 - [1.1.0] implement review likes

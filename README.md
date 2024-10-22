@@ -252,6 +252,7 @@
 
 TODO:
 
+- change language button
 - add translations for all pages
 - add analytics (vercel, posthog?)
 - [1.1.0] implement report review

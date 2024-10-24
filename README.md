@@ -260,6 +260,10 @@
 
 #### 24.10.2024
 
+- translate landlord page
+
+#### 25.10.2024
+
 TODO:
 
 - change language button
@@ -270,8 +274,6 @@ TODO:
 - [1.1.0] implement selecting users locale
 - [1.1.0] add AI validation for reviews
 - [1.1.0] login with google
-
-#### 25.10.2024
 
 #### 26.10.2024
 

@@ -264,8 +264,15 @@
 
 #### 25.10.2024
 
+- add landing page
+- add translations for landing page
+
+#### 26.10.2024
+
 TODO:
 
+- change primary color
+- move redis from vercel to vps
 - change language button
 - add translations for all pages
 - add analytics (vercel, posthog?)
@@ -274,8 +281,6 @@ TODO:
 - [1.1.0] implement selecting users locale
 - [1.1.0] add AI validation for reviews
 - [1.1.0] login with google
-
-#### 26.10.2024
 
 #### 27.10.2024
 

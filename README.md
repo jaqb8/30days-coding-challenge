@@ -276,9 +276,11 @@
 
 #### 27.10.2024
 
+- add translations for all pages
+
 TODO:
 
-- add translations for all pages
+- fix custom domains rewrites
 - [1.1.0] implement report review
 - [1.1.0] implement review likes
 - [1.1.0] implement selecting users locale

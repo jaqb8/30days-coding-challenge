@@ -278,17 +278,19 @@
 
 - add translations for all pages
 
+#### 28.10.2024
+
+- work on middleware
+
+#### 29.10.2024
+
 TODO:
 
-- fix custom domains rewrites
+- move landing page to separate app
 - [1.1.0] implement report review
 - [1.1.0] implement review likes
 - [1.1.0] implement selecting users locale
 - [1.1.0] add AI validation for reviews
 - [1.1.0] login with google
-
-#### 28.10.2024
-
-#### 29.10.2024
 
 #### 30.10.2024

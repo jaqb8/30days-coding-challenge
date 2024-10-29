@@ -284,13 +284,16 @@
 
 #### 29.10.2024
 
+- move landing page to separate app
+
+#### 30.10.2024
+
 TODO:
 
-- move landing page to separate app
+- create ci/cd pipeline for landing page
+- add description on linkedin, create company page on linkedin
 - [1.1.0] implement report review
 - [1.1.0] implement review likes
 - [1.1.0] implement selecting users locale
 - [1.1.0] add AI validation for reviews
 - [1.1.0] login with google
-
-#### 30.10.2024
